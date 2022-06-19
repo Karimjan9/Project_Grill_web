@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+$fa-font-path: "http://127.0.0.1:8000/adminmenu#/webfonts";
+$fa-font-path: "http://127.0.0.1:8000/webfonts";
+// @import '~bootstrap/scss/bootstrap';
+// @import '~@fortawesome/scss/fontawesome';
+// @import '~@fortawesome/scss/brand';
+// @import '~@fortawesome/scss/regular';
+// @import '~@fortawesome/scss/solid';
+// @import "node_modules/font-awesome/scss/font-awesome.scss";
+@import "~@fortawesome/scss/fontawesome.scss";
+@import "~@fortawesome/scss/solid.scss";
+@import "~@fortawesome/scss/brands.scss";
+@import "node_modules/@fortawesome/scss/fontawesome.scss";
